@@ -1,0 +1,27 @@
+{
+	"name": "kanyebot",
+	"version": "1.0.0",
+	"description": "24/7 kanye radio",
+	"main": "build/KanyeBot.js",
+	"scripts": {
+		"build": "tsc",
+		"start": "node build/KanyeBot.js",
+		"dev": "ts-node src/KanyeBot.ts"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"@types/node": "^16.11.1",
+		"prettier": "^2.4.1",
+		"ts-node": "^10.3.0",
+		"typescript": "^4.4.4"
+	},
+	"dependencies": {
+		"@discordjs/voice": "^0.6.0",
+		"discord.js": "^13.2.0",
+		"libsodium-wrappers": "^0.7.9",
+		"opusscript": "^0.0.8",
+		"reflect-metadata": "^0.1.13",
+		"typedi": "^0.10.0",
+		"ytdl-core": "^4.9.1"
+	}
+}

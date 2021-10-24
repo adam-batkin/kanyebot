@@ -1,0 +1,16 @@
+{
+	"tracks": [
+		{
+			"title": "Lift Yourself",
+			"albumName": "",
+			"yearOfRelease": "2018",
+			"filePath": "Lift Yourself.mp3"
+		},
+		{
+			"title": "Jail, Pt. 2",
+			"albumName": "Donda",
+			"yearOfRelease": "2021",
+			"filePath": "Donda/Jail Pt. 2.mp3"
+		}
+	]
+}
